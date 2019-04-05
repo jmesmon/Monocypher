@@ -15,3 +15,4 @@ tests/formal-analysis
 monocypher-*
 doc/html/*.html
 tests/vectors.h
+_*
